@@ -1,1 +1,1 @@
-# machinelearning_lr
+# machinelearning_regression
